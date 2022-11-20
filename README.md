@@ -3,7 +3,17 @@
 [![Website](https://img.shields.io/badge/Website-rafalwolak.pl-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://rafalwolak.pl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rafalwolak-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafalwolak/)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="macbook-angular-mono-happy.png">
+  <source media="(prefers-color-scheme: light)" srcset="macbook-angular-happy.png">
+  <img alt="Me" src="macbook-angular-happy.png" width="100" align="right">
+</picture>
+
 *I'm senior front-end developer at [Tom&Co.](https://www.tomandco.co.uk/)*
+
+ - 🌱 I’m currently learning Dart and Flutter;
+
+
 ## Technologies
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ## Environment

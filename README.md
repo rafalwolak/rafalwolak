@@ -11,13 +11,11 @@
 
 *I'm a senior front-end developer at [Tom&Co.](https://www.tomandco.co.uk/)*
 
-I started my adventure with programming in 2004 with Flash :).
+Then I learned **HTML** and **CSS** to prepare my first website. A few years later, I learned **PHP** to build websites on **WordPress** and e-commerce websites on **PrestaShop** and **OpenCart**. This experience gave me the opportunity to work as a programmer in a small internet agency, where I was responsible for creating websites based on the company's CMS. In order to increase the quality and meet customer requirements, I forced the transition to WordPress as the primary management system for customer websites.
 
-Then I learned **HTML** and **CSS** to prepare my first website. A few years later, I learned **PHP** to build websites on **WordPress** and e-commerce websites on **PrestaShop** and **OpenCart**. This experience gave me the opportunity to work as a programmer in a small internet agency, where I was responsible for creating websites based on the company's CMS. In order to increase the quality and meet customer requirements, I forced the transition to WordPress as the primary management system for customer websites. 
+With the changing trends, I started learning single-page application frameworks like **AngularJS** and **React**. This knowledge gave me the opportunity to work in a larger company on much larger e-commerce projects.
 
-With the changing trends, I started learning single-page application frameworks like **AngularJS** and **React**. This knowledge gave me the opportunity to work in a larger company on much larger e-commerce portals. 
-
-I am working on projects with thousands of unique visitors for the largest stores in the UK and worldwide. On the front end, we use a Headless CMS based on **Angular** (currently 14) which communicates with **Magento** on the backend.
+I am working on projects with thousands of unique visitors for the largest stores in the UK and worldwide. On the front end, we use a headless CMS based on **Angular** (currently 14) which communicates with **Magento** on the backend.
 
  - 🌱 I’m currently learning Dart and Flutter;
 

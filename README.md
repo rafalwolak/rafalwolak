@@ -32,12 +32,12 @@ I am working on projects with thousands of unique visitors for the largest store
 <!--START_SECTION:waka-->
 
 ```text
-JSON         1 hr 47 mins    ████████████▒░░░░░░░░░░░░   48.72 %
-Python       58 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.30 %
-YAML         25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-JavaScript   19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+JSON         1 hr 47 mins    ████████████████▓░░░░░░░░   66.99 %
+YAML         21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
+JavaScript   19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
+Python       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Markdown     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->

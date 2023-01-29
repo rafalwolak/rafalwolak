@@ -32,7 +32,11 @@ I am working on projects with thousands of unique visitors for the largest store
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Dart     19 mins         ████████████████░░░░░░░░░   63.92 %
+YAML     5 mins          █████░░░░░░░░░░░░░░░░░░░░   19.41 %
+JSON     4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
+Groovy   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Bash     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->

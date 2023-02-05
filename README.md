@@ -32,8 +32,8 @@ I am working on projects with thousands of unique visitors for the largest store
 <!--START_SECTION:waka-->
 
 ```text
-Dart     34 mins         ████████████▒░░░░░░░░░░░░   49.47 %
-Other    11 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+Dart     14 mins         █████████▓░░░░░░░░░░░░░░░   38.11 %
+Other    11 mins         ███████▒░░░░░░░░░░░░░░░░░   29.75 %
 ```
 
 <!--END_SECTION:waka-->

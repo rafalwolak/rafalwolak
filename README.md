@@ -32,7 +32,7 @@ I am working on projects with thousands of unique visitors for the largest store
 <!--START_SECTION:waka-->
 
 ```text
-Other    33 mins         █████████████▓░░░░░░░░░░░   55.06 %
+Other    33 mins         █████████████████░░░░░░░░   68.20 %
 ```
 
 <!--END_SECTION:waka-->

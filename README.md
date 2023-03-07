@@ -32,7 +32,10 @@ I am working on projects with thousands of unique visitors for the largest store
 <!--START_SECTION:waka-->
 
 ```text
-PHP   7 mins          █████████████████████████   100.00 %
+YAML    7 mins          █████████░░░░░░░░░░░░░░░░   36.15 %
+PHP     7 mins          ████████▓░░░░░░░░░░░░░░░░   34.01 %
+Dart    4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
+Other   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
 ```
 
 <!--END_SECTION:waka-->

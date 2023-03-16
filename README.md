@@ -32,9 +32,10 @@ I am working on projects with thousands of unique visitors for the largest store
 <!--START_SECTION:waka-->
 
 ```text
-PHP          5 mins          ████████████████▓░░░░░░░░   66.85 %
-Git Config   1 min           █████░░░░░░░░░░░░░░░░░░░░   20.04 %
-JSON         1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+JSON         3 hrs 1 min     ██████████████████▒░░░░░░   73.33 %
+JavaScript   19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+Git Config   19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+Other        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
 
 <!--END_SECTION:waka-->

@@ -32,11 +32,7 @@ I am working on projects with thousands of unique visitors for the largest store
 <!--START_SECTION:waka-->
 
 ```txt
-Other        3 hrs 28 mins   ███████████████████████▒░   92.96 %
-JSON         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-Groovy       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

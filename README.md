@@ -15,9 +15,7 @@ Then I learned **HTML** and **CSS** to prepare my first website. A few years lat
 
 With the changing trends, I started learning single-page application frameworks like **AngularJS** and **React**. This knowledge gave me the opportunity to work in a larger company on much larger e-commerce projects.
 
-I am working on projects with thousands of unique visitors for the largest stores in the UK and worldwide. On the front end, we use a headless CMS based on **Angular** (currently 14) which communicates with **Magento** on the backend.
-
- - 🌱 I’m currently learning Dart and Flutter;
+I am working on projects with thousands of unique visitors for the largest stores in the UK and worldwide. On the front end, we use a headless CMS based on **Angular** (currently 17) which communicates with **Magento** on the backend.
 
 ## Technologies
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 

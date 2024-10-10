@@ -11,7 +11,7 @@
 
 *I'm a senior front-end developer at [Tom&Co.](https://www.tomandco.co.uk/)*
 
-I am working on projects with thousands of unique visitors for the largest stores in the UK and worldwide. On the front end, we use a headless CMS based on **Angular** (currently 17) which communicates with **Magento** on the backend.
+I am working on projects with thousands of unique visitors for the largest stores in the UK and worldwide. On the front end, we use a headless CMS based on **Angular** (currently 18) which communicates with **Magento** on the backend.
 
 ## Technologies
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 

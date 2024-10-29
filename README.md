@@ -26,11 +26,11 @@ I am working on projects with thousands of unique visitors for the largest store
 <!--START_SECTION:waka-->
 
 ```txt
-Liquid        36 mins         ██████████░░░░░░░░░░░░░░░   40.11 %
-CSS           24 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
-JSON          23 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.46 %
-JavaScript    5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Liquid        1 hr 25 mins    █████████▒░░░░░░░░░░░░░░░   36.77 %
+CSS           1 hr 13 mins    ████████░░░░░░░░░░░░░░░░░   31.63 %
+JSON          59 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.40 %
+JavaScript    12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+YAML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->

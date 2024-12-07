@@ -26,11 +26,11 @@ I am working on projects with thousands of unique visitors for the largest store
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   22 hrs 19 mins  █████████████▓░░░░░░░░░░░   54.72 %
-HTML         8 hrs 47 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.55 %
-SCSS         6 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
-JSON         2 hrs 33 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-Text         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+TypeScript                 21 hrs 38 mins  █████████████▓░░░░░░░░░░░   54.04 %
+HTML                       8 hrs 45 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.87 %
+SCSS                       6 hrs 26 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
+JSON                       2 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+YAML                       25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->

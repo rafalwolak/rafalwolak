@@ -26,7 +26,8 @@ I am working on projects with thousands of unique visitors for the largest store
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+SQL      0 secs          ███████████████▓░░░░░░░░░   62.56 %
+Docker   0 secs          █████████▒░░░░░░░░░░░░░░░   37.44 %
 ```
 
 <!--END_SECTION:waka-->

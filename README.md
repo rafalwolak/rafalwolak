@@ -26,11 +26,11 @@ I am working on projects with thousands of unique visitors for the largest store
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         5 hrs 43 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.16 %
-Markdown     5 hrs 7 mins    ██████░░░░░░░░░░░░░░░░░░░   24.32 %
-YAML         2 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-Lua          2 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
-TypeScript   2 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+Markdown     7 hrs 10 mins   ██████████▒░░░░░░░░░░░░░░   40.79 %
+JSON         4 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.64 %
+YAML         2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+Lua          1 hr 56 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+Git Config   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->

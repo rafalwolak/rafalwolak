@@ -26,11 +26,11 @@ I am working on projects with thousands of unique visitors for the largest store
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         2 hrs 20 mins   ███████▓░░░░░░░░░░░░░░░░░   31.10 %
-Markdown     2 hrs 8 mins    ███████░░░░░░░░░░░░░░░░░░   28.36 %
-YAML         1 hr 18 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
-Dart         33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-Git Config   29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+JSON                 1 hr 44 mins    ████████▒░░░░░░░░░░░░░░░░   33.23 %
+YAML                 1 hr 15 mins    ██████░░░░░░░░░░░░░░░░░░░   24.13 %
+Markdown             30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+Dart                 30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+Git Config           30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
 ```
 
 <!--END_SECTION:waka-->

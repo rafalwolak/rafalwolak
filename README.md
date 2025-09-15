@@ -26,11 +26,11 @@ I am working on projects with thousands of unique visitors for the largest store
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown             6 hrs 26 mins   ██████████████░░░░░░░░░░░   55.97 %
-Godot Resource       55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
-JSON                 54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Other                41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-MDX                  30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Markdown             7 hrs 2 mins    █████████████▒░░░░░░░░░░░   53.45 %
+Godot Resource       1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+JSON                 57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+Other                41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+MDX                  35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
 ```
 
 <!--END_SECTION:waka-->

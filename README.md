@@ -26,11 +26,7 @@ I am working on projects with thousands of unique visitors for the largest store
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown             6 hrs 59 mins   █████████████████▓░░░░░░░   70.44 %
-Dart                 1 hr 19 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
-Makefile             25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-HTML                 21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-YAML                 19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Markdown   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

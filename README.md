@@ -26,7 +26,11 @@ I am working on projects with thousands of unique visitors for the largest store
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other        31 mins         █████████████░░░░░░░░░░░░   51.56 %
+Markdown     14 mins         ██████░░░░░░░░░░░░░░░░░░░   23.60 %
+JSON         12 mins         █████░░░░░░░░░░░░░░░░░░░░   20.35 %
+Git Config   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->

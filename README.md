@@ -22,6 +22,15 @@ Senior Front-End Developer z ponad 20-letnim doświadczeniem (koduję od 2004!).
   <img src="https://img.shields.io/badge/NX-143055?style=for-the-badge&logo=nx&logoColor=white" />
 </p>
 
+---
+
+### 🏗️ Nad czym obecnie pracuję (Private Repos)
+- 📱 **Trips by Remind Tools** – Budowa mobilnej aplikacji do zarządzania podróżami (React Native + Expo).
+- 🛍️ **Shopify Store Template** – Projektowanie wysokowydajnego szablonu e-commerce zorientowanego na konwersję.
+- 🎯 **Angular 21 Research** – Implementacja najnowszych wzorców projektowych w ekosystemie Angulara.
+
+---
+
 ### 📫 Kontakt
 <p align="left">
   <a href="https://www.linkedin.com/in/rafalwolak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>

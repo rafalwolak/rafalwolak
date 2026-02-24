@@ -44,10 +44,9 @@ Senior Front-End Developer z ponad 20-letnim doświadczeniem (koduję od 2004!).
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   5 mins                ██████████▓░░░░░░░░░░░░░░   42.94 %
-Other      4 mins                ████████▓░░░░░░░░░░░░░░░░   35.22 %
-XML        2 mins                █████▒░░░░░░░░░░░░░░░░░░░   21.18 %
-Makefile   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Other      4 mins                ███████████▒░░░░░░░░░░░░░   45.38 %
+Markdown   2 mins                ███████▒░░░░░░░░░░░░░░░░░   29.05 %
+XML        2 mins                ██████▒░░░░░░░░░░░░░░░░░░   25.58 %
 ```
 
 <!--END_SECTION:waka-->

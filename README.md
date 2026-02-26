@@ -44,9 +44,7 @@ Senior Front-End Developer z ponad 20-letnim doświadczeniem (koduję od 2004!).
 <!--START_SECTION:waka-->
 
 ```txt
-Other      4 mins                ███████████▒░░░░░░░░░░░░░   45.38 %
-Markdown   2 mins                ███████▒░░░░░░░░░░░░░░░░░   29.05 %
-XML        2 mins                ██████▒░░░░░░░░░░░░░░░░░░   25.58 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

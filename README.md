@@ -44,11 +44,11 @@ Senior Front-End Developer z ponad 20-letnim doświadczeniem (koduję od 2004!).
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown             1 hr 37 mins          ███████████░░░░░░░░░░░░░░   44.65 %
-PHP                  42 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
-JSON                 27 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
-Other                13 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-Git Config           12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+Markdown             1 hr 37 mins          ██████████▓░░░░░░░░░░░░░░   43.22 %
+PHP                  42 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
+JSON                 27 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
+Other                13 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+Git Config           12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
 ```
 
 <!--END_SECTION:waka-->

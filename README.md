@@ -44,11 +44,10 @@ Senior Front-End Developer z ponad 20-letnim doświadczeniem (koduję od 2004!).
 <!--START_SECTION:waka-->
 
 ```txt
-Swift        1 hr 33 mins          ████████████▒░░░░░░░░░░░░   49.81 %
-Markdown     1 hr 16 mins          ██████████▒░░░░░░░░░░░░░░   40.89 %
-Git Config   15 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-Other        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-XML          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Swift        52 mins               ███████████████▒░░░░░░░░░   61.11 %
+Markdown     27 mins               ████████░░░░░░░░░░░░░░░░░   31.56 %
+Git Config   6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->

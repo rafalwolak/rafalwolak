@@ -44,11 +44,11 @@ Senior Front-End Developer z ponad 20-letnim doświadczeniem (koduję od 2004!).
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     20 hrs 32 mins        ███████████▒░░░░░░░░░░░░░   45.55 %
-TypeScript   8 hrs 32 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
-Other        7 hrs 28 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
-YAML         3 hrs 22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-Bash         1 hr 42 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Markdown     32 hrs 14 mins        ████████████░░░░░░░░░░░░░   47.75 %
+TypeScript   14 hrs 13 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
+Other        9 hrs 38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+YAML         4 hrs 20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+JavaScript   2 hrs 13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->
